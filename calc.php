@@ -3,6 +3,7 @@
 <Title> </Title>
 </Head>
 <Body>
+<h1> Сумматор </h1>
 <form action="calc.php" method="GET">
 <input type="text" name="arg1" value="">
 <input type="text" name="arg2" value="">
